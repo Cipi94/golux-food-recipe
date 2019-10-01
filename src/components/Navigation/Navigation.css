@@ -1,0 +1,9 @@
+.Navigation {
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: #5f4c4c;
+  box-sizing: border-box;
+  margin-bottom: 50px;
+}

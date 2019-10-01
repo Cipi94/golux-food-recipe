@@ -1,0 +1,28 @@
+.Category {
+  width: 150px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  background: #f1eae6;
+  border-radius: 10px;
+  justify-content: center;
+}
+
+.Category img {
+  width: 300px;
+  transition: 0.2s transform ease;
+}
+
+.Category img:hover {
+  transition: 0.2s transform ease;
+  transform: scale(1.1);
+
+}
+
+
+.Category h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}

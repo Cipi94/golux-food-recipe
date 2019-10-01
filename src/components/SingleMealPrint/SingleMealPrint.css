@@ -1,0 +1,17 @@
+.SingleMealPrint {
+  width: 100%;
+  display: flex;
+  justify-content:space-around;
+
+
+  box-sizing: border-box;
+
+}
+
+.SingleMealPrint img {
+  width: 50%;
+  border: 1px solid #C1C1C1;
+  padding: 5px;
+  border-radius: 20px;
+
+}

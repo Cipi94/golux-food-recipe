@@ -1,0 +1,24 @@
+.Meal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Meal img {
+  width: 300px;
+  transition: 0.2s transform ease;
+}
+
+.Meal img:hover {
+  transition: 0.2s transform ease;
+  transform: scale(1.1);
+
+}
+
+
+.Meal h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
